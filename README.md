@@ -8,4 +8,5 @@ Array --> Json  <br>
 Json --> Array <br>
 List --> Json <br>
 Json -->List <br>
-Getting the type of List
+Getting the type of List <br>
+Article link https://telegra.ph/Json-va-Gson-kutubxonasi-haqida-04-25
